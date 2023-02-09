@@ -20,5 +20,4 @@
 ΔΕΚΑΤΗ ΕΒΔΟΜΑΔΑ ΜΑΘΗΜΑΤΟΣ : KOYIZ ΟΡΓΑΝΩΝ https://e-learning.ilei.sch.gr/moodle/mod/lesson/view.php?id=158527 συνολικό κουίζ
 
 Φόρμα αξιολόγησης του ψηφιακού μαθήματος δέκα εβδομάδων με τα εκπαιδευτικά παχνίδια και τις εφαρμογές πρακτικές και εξάσκησης
-https://docs.google.com/forms/d/e/1FAIpQLSdg1XkkYGQcMR1ovsdGY8MD0
-BnKZy2apzm1ciFfqC1gOQ7Lwg/viewform?usp=sf_link
+https://docs.google.com/forms/d/e/1FAIpQLSdg1XkkYGQcMR1ovsdGY8MD0BnKZy2apzm1ciFfqC1gOQ7Lwg/viewform?usp=sf_link
